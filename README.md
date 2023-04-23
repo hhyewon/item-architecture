@@ -23,3 +23,4 @@
 ### 4. Start thinking key design
 
 - 검색 키워드 : dynamodb hierarchical data sort key 어렵당
+  - [그래프와 같은 계층적 관계를 관리하기 위한 DynamoDB 데이터 모델링](https://docs.aws.amazon.com/ko_kr/prescriptive-guidance/latest/dynamodb-hierarchical-data-model/query-hierarchical-data.html)
