@@ -1,6 +1,7 @@
 # 🔑 How to design key? (Dynamo DB)
 
 ### 1. Use case from business
+![image](https://user-images.githubusercontent.com/73240332/233829311-18c2f4f1-4536-4431-8807-60f250b96aec.png)
 ![image](https://user-images.githubusercontent.com/73240332/233580136-f36380a3-35a8-4bdd-91b6-e4a9a3bfe573.png)
 
 
